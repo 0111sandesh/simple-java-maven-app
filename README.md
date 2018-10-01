@@ -1,4 +1,4 @@
-# simple-java-maven-app_1
+# simple-java-maven-app
 
 
 This repository is for the
